@@ -42,7 +42,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Jared Baker's Solution](https://github.com/Jayrod141414/project_rock_paper_scissors)
 - [Samuel Marcus' Solution](https://github.com/smarcus4/RockPaperScissors) - [View in Browser](https://smarcus4.github.io/RockPaperScissors/)
 - [joshhammer's Solution](https://joshhammer.github.io/rock-paper-scissors/)
-- [Eliezer's Console Solution](https://github.com/vzla0094/rock_paper_scissors/blob/master/practica.js)
+- [Eliezer's Solution](https://github.com/vzla0094/rock_paper_scissors/blob/master/practica.js) - [View in Browser](https://vzla0094.github.io/rock_paper_scissors/)
 - [Jieselle's Console Solution](https://github.com/jieselle/Rock-Paper-Scissors-Game)
 - [Allan Glasier's Solution](http://allanglasier.com/rock-paper-scissors/) - [View in Browser](http://allanglasier.com/rock-paper-scissors/)
 - [Allan Glasier's Console Solution](https://github.com/allan-glasier/rock-paper-scissors/blob/master/index(original).html)
